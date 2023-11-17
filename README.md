@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jaime Chez</h1>
-<h3 align="center">A passionate developer student from Spain</h3>
+<h3 align="center">Passionate developer student from Spain</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaimeChez](https://github.com/JaimeChez)
 
