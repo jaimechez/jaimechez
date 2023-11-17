@@ -14,6 +14,8 @@
   <a href="https://www.pinterest.es/jaimeschez/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="jaimechez" height="30" width="40" /></a>
    <a href="https://www.behance.net/jaimesnchez20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="jaimechez" height="30" width="40" /></a>
   <a href="https://codepen.io/Jaime-Chez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="jaimechez" height="30" width="40" /></a>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaimechez&layout=compact)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
