@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JaimeChez](https://github.com/JaimeChez)
 
-- 💬 Ask me about **Java, SQL and JavaScript, for example.**
+- 💬 Ask me about **Java and SQL, for example.**
 
 - 📫 How to reach me **infojaimechez@gmail.com**
 
