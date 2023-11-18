@@ -1,7 +1,7 @@
 <h3 align="center">Hi, nice to see you 😎</h3>
 <p align="center"><img src="https://github.com/jaimechez/profileAssets/blob/main/gifs/welcome.gif" alt="Welcome's Gif" height="200"></p>
 <div style="text-align: center;">
-  <h4 style="display: inline-block; text-align: left;">I'm Jaime Chez, a passionate programmer in constant pursuit of intellectual challenges. In love with code and always hungry for knowledge. I'm constantly exploring new ideas and technologies to expand my understanding of the software development universe. Join me as I navigate the ocean of software development, always seeking the next fascinating piece of code and the most elegant solution.</h4>
+  <h4 style="display: inline-block; text-align: left;">I'm Jaime Chez, a passionate programmer in constant pursuit of intellectual challenges. I am enamored with code and am always hungry for knowledge. I am constantly exploring new ideas and technologies to expand my understanding of the software development universe. Join me as I navigate this challenging ocean, always seeking the next fascinating piece of code and the most elegant solution.</h4>
 </div>
 
 - 📫 How to reach me **infojaimechez@gmail.com**
