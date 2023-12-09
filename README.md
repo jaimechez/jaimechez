@@ -10,8 +10,6 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/jaime-s%C3%A1nchez-gonz%C3%A1lez-b374a4256/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaimechez" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimechez&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="jaimechez" /></p>
-
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaimechez&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
 
 
